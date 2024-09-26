@@ -17,6 +17,10 @@ public class StringDemo {
 		System.out.println(userName.trim());
 		System.out.println(userName.indexOf('r'));
 		
+		// add
+		// add
+		// add
+		// add
 		
 
 

@@ -17,7 +17,7 @@ public class TwoDimensionalArray {
 		if (number[0] != number[2]) {
 		 System.out.println();
 		 
-		 else {
+		// else {
 			 
 		 }
 		}
