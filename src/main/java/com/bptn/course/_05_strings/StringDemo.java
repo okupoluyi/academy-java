@@ -4,7 +4,7 @@ public class StringDemo {
 
 	public static void main(String[] args) {
 
-	
+	//Adding a comment
 		String userName = "testuser";
 		
 		System.out.println(userName      );
