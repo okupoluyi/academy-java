@@ -10,11 +10,9 @@ public class TwoDimensionalArray {
 		int [][] number = {
 				{85,90},
 				{88,92},
-				{70,65}
-		};
+				{70,65}};
 
 		//Hello World
-	
 
 		if (number[0] != number[2]) {
 		 System.out.println();
