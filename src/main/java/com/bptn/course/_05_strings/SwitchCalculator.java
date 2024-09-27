@@ -10,9 +10,9 @@ public class SwitchCalculator {
 		
 		int choice;
 		double billAmount = 0.0;
-		do {
 		
 		
+
 		System.out.println("Please choose an item from the list: ");
 		System.out.println("1. Pizza - $12.99");
 		System.out.println("2. Burger - $8.99");
@@ -40,9 +40,7 @@ public class SwitchCalculator {
 		  }
 		 
 		 }
-		 while {
-		 }
-
+		}
 	}
 
-}
+
