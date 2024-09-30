@@ -5,23 +5,16 @@ import java.util.Scanner;
 public class SwitchCalculator {
 
 	public static void main(String[] args) {
-		
 		Scanner scanner = new Scanner(System.in);
-		
 		int choice;
 		double billAmount = 0.0;
-		
-		
-
 		System.out.println("Please choose an item from the list: ");
 		System.out.println("1. Pizza - $12.99");
 		System.out.println("2. Burger - $8.99");
 		System.out.println("3. Pasta - $9.99");
 		System.out.println("4. Salad - $6.99");
 		System.out.println("5. Exit");
-	    
-		 choice = scanner.nextInt();
-		 
+		choice = scanner.nextInt();
 		 switch(choice) {
 		 case 1: System.out.println("You ordered Pizza");
 		    billAmount +=12.99;
@@ -40,6 +33,7 @@ public class SwitchCalculator {
 		  }
 		 
 		 }
+			scanner.close();
 		}
 	}
 
