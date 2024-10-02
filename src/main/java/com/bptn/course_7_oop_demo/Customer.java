@@ -25,8 +25,6 @@ class Customer {
 		return this.cart;
 	}
 
-
-
 	public void checkout() {
 		System.out.println("Processing order for " + customerName + "....");
 	}

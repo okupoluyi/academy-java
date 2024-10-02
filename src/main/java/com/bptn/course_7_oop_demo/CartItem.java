@@ -14,7 +14,6 @@ class CartItem {
 		this.cartQuantity = quantity;
 	}
 
-
 	// Getters/Accessors
 	public Product getProduct() {
 		return this.product;
