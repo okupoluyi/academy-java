@@ -17,6 +17,7 @@ public class Vehicle {
 	}
 
 	// Do not modify this code as we have parameters that pass the test case
+
 	public static void main(String[] args) {
 		Car car = new Car("White", "Audi", "Chromecoloured");
 		Bike bike = new Bike("Grey", "BMW", "Silvercoloured");
