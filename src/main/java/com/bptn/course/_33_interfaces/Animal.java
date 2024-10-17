@@ -1,4 +1,4 @@
-package com.bptn.course._interfaces;
+package com.bptn.course._33_interfaces;
 
 public interface Animal {
 

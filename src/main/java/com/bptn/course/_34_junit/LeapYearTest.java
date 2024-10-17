@@ -1,4 +1,4 @@
-package com.bptn.course.junit;
+package com.bptn.course._34_junit;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
