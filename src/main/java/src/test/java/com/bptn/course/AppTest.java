@@ -1,8 +1,9 @@
 package src.test.java.com.bptn.course;
 
-public class AppTest {
+import junit.framework.Test;
+import junit.framework.TestCase;
+import junit.framework.TestSuite;
 
-<<<<<<< HEAD
 /**
  * Unit test for simple App.
  */
@@ -29,6 +30,4 @@ public class AppTest extends TestCase {
 	public void testApp() {
 		assertTrue(true);
 	}
-=======
->>>>>>> 039ca33a8306e5dc86dd99894d4a361c454efcf8
 }
