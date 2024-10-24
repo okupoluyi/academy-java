@@ -1,4 +1,4 @@
-package com.bptn.course._03_flow_control._02_for_loop;
+package src.main.java.com.bptn.course._03_flow_control._02_for_loop;
 
 public class ForLoop {
 

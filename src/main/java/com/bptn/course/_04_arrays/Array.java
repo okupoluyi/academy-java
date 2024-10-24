@@ -1,4 +1,4 @@
-package com.bptn.course._04_arrays;
+package src.main.java.com.bptn.course._04_arrays;
 
 public class Array {
 

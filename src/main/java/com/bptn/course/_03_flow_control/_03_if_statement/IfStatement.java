@@ -1,4 +1,4 @@
-package com.bptn.course._03_flow_control._03_if_statement;
+package src.main.java.com.bptn.course._03_flow_control._03_if_statement;
 
 public class IfStatement {
 

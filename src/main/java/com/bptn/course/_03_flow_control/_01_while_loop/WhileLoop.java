@@ -1,4 +1,4 @@
-package com.bptn.course._03_flow_control._01_while_loop;
+package src.main.java.com.bptn.course._03_flow_control._01_while_loop;
 
 public class WhileLoop {
 

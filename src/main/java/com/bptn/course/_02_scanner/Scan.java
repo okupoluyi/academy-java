@@ -1,4 +1,4 @@
-package com.bptn.course._02_scanner;
+package src.main.java.com.bptn.course._02_scanner;
 
 public class Scan {
 
