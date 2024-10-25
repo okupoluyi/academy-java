@@ -1,8 +1,9 @@
-package src.test.java.com.bptn.course;
-
-//public class AppTest {
+//package src.test.java.com.bptn.course;
 //
-//<<<<<<< HEAD
+//import junit.framework.Test;
+//import junit.framework.TestCase;
+//import junit.framework.TestSuite;
+//
 ///**
 // * Unit test for simple App.
 // */
@@ -29,6 +30,4 @@ package src.test.java.com.bptn.course;
 //	public void testApp() {
 //		assertTrue(true);
 //	}
-//=======
-//>>>>>>> 039ca33a8306e5dc86dd99894d4a361c454efcf8
 //}
